@@ -24,5 +24,9 @@
     "currency"
   ],
   "author": "Ratushna Nataliia <nata.lv.kr@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/spetsmash/country-telephone-alpha2-data#readme",
+  "bugs": {
+    "url": "https://github.com/spetsmash/country-telephone-alpha2-data/issues"
+  }
 }
