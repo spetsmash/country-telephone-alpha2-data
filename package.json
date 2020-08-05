@@ -1,0 +1,28 @@
+{
+  "name": "country-telephone-alpha2-data",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  },
+  "description": "Has country codes according to iso alpha2 and also telephone prefixes for for all countries in the world. PR very welcome",
+  "main": "country_telephone_alpha2_data",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spetsmash/country-telephone-alpha2-data"
+  },
+  "keywords": [
+    "country",
+    "telephone",
+    "data",
+    "format",
+    "code",
+    "alpha2",
+    "iso",
+    "currency"
+  ],
+  "author": "Ratushna Nataliia <nata.lv.kr@gmail.com>",
+  "license": "MIT"
+}
