@@ -18,6 +18,7 @@ Via [npm](https://www.npmjs.com/package/country-telephone-currency-data):
 ##### Data list contains:
 
 ```js
+{
         countryName: "Afghanistan (‫افغانستان‬‎)",
         id: "af",
         dialCode: "+93",

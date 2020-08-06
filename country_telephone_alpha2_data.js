@@ -289,7 +289,6 @@ const allCountries = [
     ["Venezuela", "ve", "+58", "862", "VES", "Bolívar Soberano"],
     ["Vietnam (Việt Nam)", "vn", "+84", "704", "VND", "Dong"],
     ["Wallis and Futuna", "wf", "+681", "876", "XPF", "CFP Franc"],
-    ["Western Sahara", "eh", "+212", "732", "MAD", "Moroccan Dirham"],
     ["Yemen (‫اليمن‬‎)", "ye", "+967", "887", "YER", "Yemeni Rial"],
     ["Zambia", "zm", "+260", "894", "ZMW", "Zambian Kwacha"],
     ["Zimbabwe", "zw", "+263", "716", "ZWL", "Zimbabwe Dollar"],
